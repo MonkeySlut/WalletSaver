@@ -1,0 +1,13 @@
+body{
+    width: 12em;
+}
+#welcome {
+    font-size: 1.5em;
+}
+#ver {
+    font-size: 1em;
+}
+#go-to-options{
+    position: relative;
+    left: 3em;
+}

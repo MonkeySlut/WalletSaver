@@ -1,0 +1,16 @@
+#disappearLabel { 
+    visibility: hidden;
+    padding-left: 2em;
+}
+
+#secondsToWaitLabel { 
+    visibility: hidden;
+    padding-left: 2em;
+}
+
+#status {
+    visibility: hidden;
+    width: 1.3em;
+    padding-left: 0.5em;
+}
+

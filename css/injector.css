@@ -1,0 +1,34 @@
+.walletSaver {
+    position: absolute;
+    z-index: 998;
+}
+
+#terryImageId {
+    position: absolute;
+    border: 1.5px solid #021a40; 
+    border-radius: 4px;
+}
+
+#terryImageCountdownId {
+    position: absolute;
+    font-size: 3em;
+    font-weight: bold;
+    color: rgba(255,0,0,0.6);
+    z-index: 999;
+    padding-left: 0.5em;
+    padding-top: 0.2em;
+}
+
+#closeButtonId {
+    position: absolute;
+    font-weight: bold;
+    font-size: 3em;
+    cursor: pointer;
+    color: black;
+    visibility: hidden;
+    padding-left: 0.5em;
+}
+
+#closeButtonId:hover {
+    color: grey;
+}
